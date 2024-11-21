@@ -1,0 +1,7 @@
+public class FirstApex
+{
+  public static void display()
+  {
+    system.debug("Welcome to Apex Programming!!!");
+  }
+}
